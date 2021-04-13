@@ -64,6 +64,9 @@ function sprite () {
     true
     )
 }
+spriteutils.createRenderable(0, function (screen2) {
+	
+})
 function overlap () {
 	
 }
